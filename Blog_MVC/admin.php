@@ -1,0 +1,1 @@
+<a href="admin/admin.php">Admin</a>
